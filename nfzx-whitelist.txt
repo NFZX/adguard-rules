@@ -1,0 +1,6 @@
+@@||tianqi.2345.com^
+@@||waptianqi.2345.com^
+@@||analytics.google.com^
+@@||analytics.googleapis.com^
+@@||tanx.com^
+@@||360tpcdn.com^
