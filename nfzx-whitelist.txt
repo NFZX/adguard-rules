@@ -4,3 +4,4 @@
 @@||analytics.googleapis.com^
 @@||tanx.com^
 @@||360tpcdn.com^
+@@||ic.wps.cn^
